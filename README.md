@@ -30,3 +30,13 @@ c++11
 boost
 sqlite3
 ```
+
+# linux
+
+```
+mkdir ./build
+cd ./build
+cmake ..
+make
+make install
+```
