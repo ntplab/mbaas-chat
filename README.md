@@ -54,6 +54,13 @@ make
 make install
 ```
 
+# これから
+
+```
+マニュアル、管理画面＋管理ツールをruby+unicorn+sinatraで
+ささっと記述して、sendbirdのようなサービスも検討できるかも
+```
+
 # 謝辞
 
 ```
