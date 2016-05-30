@@ -40,3 +40,10 @@ cmake ..
 make
 make install
 ```
+
+# 謝辞
+
+```
+サンプルUIは、sendbird提供のiosサンプルソースを
+参考にして書かせていただきました
+```
